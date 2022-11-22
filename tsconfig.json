@@ -1,0 +1,11 @@
+{
+    "esModuleInterop": true,
+    "compileOnSave": true,
+   
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "target": "es6",
+        "sourceMap": true,
+        "jsx": "react"
+    }
+}
